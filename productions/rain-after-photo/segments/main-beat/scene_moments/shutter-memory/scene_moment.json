@@ -1,0 +1,8 @@
+{
+  "schema": "movscript.scene_moment.v1",
+  "kind": "scene_moment",
+  "id": "shutter-memory",
+  "title": "快门定格",
+  "order": 3,
+  "setting_refs": []
+}

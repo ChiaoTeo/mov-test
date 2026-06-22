@@ -1,0 +1,8 @@
+{
+  "schema": "movscript.expression_unit.v1",
+  "kind": "expression_unit",
+  "id": "shot-shutter-freeze",
+  "title": "取景框里的普通傍晚",
+  "expression_kind": "shot",
+  "order": 1
+}

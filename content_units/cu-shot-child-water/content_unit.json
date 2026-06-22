@@ -1,0 +1,18 @@
+{
+  "schema": "movscript.content_unit.v1",
+  "kind": "content_unit",
+  "id": "cu-shot-child-water",
+  "title": "镜头 2：孩子拨动倒影",
+  "content_unit_type": "expression_unit_ref",
+  "output_kind": "video",
+  "target_kind": "expression_unit",
+  "target_ref": "shot-child-water",
+  "production_ref": "rain-after-photo",
+  "segment_ref": "main-beat",
+  "scene_moment_ref": "child-touches-reflection",
+  "expression_unit_ref": "shot-child-water",
+  "edit_prompt": {},
+  "model_intent": {
+    "params": {}
+  }
+}

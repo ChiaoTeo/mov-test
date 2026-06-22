@@ -1,0 +1,20 @@
+{
+  "schema": "movscript.content_unit.v1",
+  "kind": "content_unit",
+  "id": "cu-voice-final-note",
+  "title": "旁白：普通傍晚的一秒",
+  "content_unit_type": "expression_unit_ref",
+  "output_kind": "audio",
+  "target_kind": "expression_unit",
+  "target_ref": "voice-final-note",
+  "production_ref": "rain-after-photo",
+  "segment_ref": "main-beat",
+  "scene_moment_ref": "shutter-memory",
+  "expression_unit_ref": "voice-final-note",
+  "edit_prompt": {
+    "text": "那天我拍下的不是风景，只是普通傍晚忽然变得值得记住的一秒。"
+  },
+  "model_intent": {
+    "params": {}
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "schema": "movscript.scene_moment.v1",
+  "kind": "scene_moment",
+  "id": "home-photo-review",
+  "title": "夜里回看照片",
+  "order": 4,
+  "setting_refs": []
+}

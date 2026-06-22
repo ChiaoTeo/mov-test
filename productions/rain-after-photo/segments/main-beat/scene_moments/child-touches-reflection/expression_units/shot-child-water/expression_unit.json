@@ -1,0 +1,8 @@
+{
+  "schema": "movscript.expression_unit.v1",
+  "kind": "expression_unit",
+  "id": "shot-child-water",
+  "title": "手指拨开灯光",
+  "expression_kind": "shot",
+  "order": 1
+}

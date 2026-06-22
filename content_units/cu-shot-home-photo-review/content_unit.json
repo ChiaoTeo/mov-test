@@ -1,0 +1,20 @@
+{
+  "schema": "movscript.content_unit.v1",
+  "kind": "content_unit",
+  "id": "cu-shot-home-photo-review",
+  "title": "镜头 4：夜里回看照片",
+  "content_unit_type": "expression_unit_ref",
+  "output_kind": "video",
+  "target_kind": "expression_unit",
+  "target_ref": "shot-home-photo-review",
+  "production_ref": "rain-after-photo",
+  "segment_ref": "main-beat",
+  "scene_moment_ref": "home-photo-review",
+  "expression_unit_ref": "shot-home-photo-review",
+  "edit_prompt": {
+    "text": "生成或拍摄 12 秒尾声镜头：夜里安静房间，摄影师把相机放在桌上，电脑屏幕显示刚拍下的雨后街角照片。桌上有咖啡杯和微湿相机背带，屏幕光照在手背上，情绪克制，不要广告片质感。"
+  },
+  "model_intent": {
+    "params": {}
+  }
+}

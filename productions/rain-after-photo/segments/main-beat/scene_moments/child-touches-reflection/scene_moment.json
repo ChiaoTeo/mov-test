@@ -1,0 +1,8 @@
+{
+  "schema": "movscript.scene_moment.v1",
+  "kind": "scene_moment",
+  "id": "child-touches-reflection",
+  "title": "孩子拨动倒影",
+  "order": 2,
+  "setting_refs": []
+}

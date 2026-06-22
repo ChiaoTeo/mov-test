@@ -1,0 +1,9 @@
+{
+  "schema": "movscript.expression_unit.v1",
+  "kind": "expression_unit",
+  "id": "voice-home-photo-review",
+  "title": "回看照片旁白",
+  "expression_kind": "dialogue",
+  "text": "有些照片不是因为重要才被拍下，是被拍下之后，才慢慢变得重要。",
+  "order": 2
+}

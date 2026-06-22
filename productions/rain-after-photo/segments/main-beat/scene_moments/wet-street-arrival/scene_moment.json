@@ -1,0 +1,8 @@
+{
+  "schema": "movscript.scene_moment.v1",
+  "kind": "scene_moment",
+  "id": "wet-street-arrival",
+  "title": "雨后的街口",
+  "order": 1,
+  "setting_refs": []
+}

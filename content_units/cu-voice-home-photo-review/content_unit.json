@@ -1,0 +1,20 @@
+{
+  "schema": "movscript.content_unit.v1",
+  "kind": "content_unit",
+  "id": "cu-voice-home-photo-review",
+  "title": "旁白：慢慢变得重要",
+  "content_unit_type": "expression_unit_ref",
+  "output_kind": "audio",
+  "target_kind": "expression_unit",
+  "target_ref": "voice-home-photo-review",
+  "production_ref": "rain-after-photo",
+  "segment_ref": "main-beat",
+  "scene_moment_ref": "home-photo-review",
+  "expression_unit_ref": "voice-home-photo-review",
+  "edit_prompt": {
+    "text": "有些照片不是因为重要才被拍下，是被拍下之后，才慢慢变得重要。"
+  },
+  "model_intent": {
+    "params": {}
+  }
+}

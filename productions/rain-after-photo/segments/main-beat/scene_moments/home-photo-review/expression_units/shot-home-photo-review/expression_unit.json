@@ -1,0 +1,8 @@
+{
+  "schema": "movscript.expression_unit.v1",
+  "kind": "expression_unit",
+  "id": "shot-home-photo-review",
+  "title": "屏幕里的那张照片",
+  "expression_kind": "shot",
+  "order": 1
+}

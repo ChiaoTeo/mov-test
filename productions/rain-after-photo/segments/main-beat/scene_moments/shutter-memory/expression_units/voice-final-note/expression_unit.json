@@ -1,0 +1,9 @@
+{
+  "schema": "movscript.expression_unit.v1",
+  "kind": "expression_unit",
+  "id": "voice-final-note",
+  "title": "结尾旁白",
+  "expression_kind": "dialogue",
+  "text": "那天我拍下的不是风景，只是普通傍晚忽然变得值得记住的一秒。",
+  "order": 2
+}
